@@ -1,0 +1,21 @@
+.preview
+  display: flex
+  flex-flow: column wrap
+  @media (min-width: 576px)
+    flex-direction: row
+  justify-content: space-around
+  align-items: center
+  .letter
+    font-size: 8rem
+    color: red
+  .image
+    img
+      max-width: 200px
+      height: auto
+    .letters
+      margin-top: 15px
+      text-align: center
+      span
+        font-size: 40px
+        &.current
+          color: red

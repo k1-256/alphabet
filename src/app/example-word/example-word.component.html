@@ -1,0 +1,11 @@
+<div class="example-word-check">
+  <p>Найдите букву <span class="letter">{{ letter.name }}</span> в этом слове:</p>
+  <div class="letters">
+    <a *ngFor="let char of exampleWord.split('')"
+      [ngClass]="{ 'checked': false }"
+      (click)="check($event, char)">
+      {{ char }}
+    </a>
+    <span class="message" *ngIf="message.show" [ngClass]="message.error ? 'error' : 'success'">{{ message.text }}</span>
+  </div>
+</div>

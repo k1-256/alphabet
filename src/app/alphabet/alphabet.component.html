@@ -1,0 +1,8 @@
+<div class="alphabet">
+  <a *ngFor="let letter of letters"
+    [routerLink]="['/challenge', letter.name]"
+    [ngClass]="{ 'current': currentLetter.name === letter.name }"
+    [ngStyle]="{ 'color': letter.isVowel ? 'red' : 'blue' }">
+    {{ letter.name.toUpperCase() }}{{ letter.name }}
+  </a>
+</div>

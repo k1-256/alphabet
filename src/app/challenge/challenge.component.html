@@ -1,0 +1,21 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <div class="preview">
+          <div class="letter">
+              {{ letter.name.toUpperCase() }}{{ letter.name }}
+          </div>
+          <div class="image">
+              <img src="assets/images/{{ letter.imageWord }}.png" alt="">
+              <div class="letters">
+                  <span
+                      *ngFor="let char of (letter.imageWord[0].toUpperCase() + letter.imageWord.slice(1)).split('')"
+                      [ngClass]="{ 'current': char.toLowerCase() === letter.name }">{{ char }}</span>
+              </div>
+          </div>
+      </div>
+      <app-example-word [letter]="letter"></app-example-word>
+      <app-alphabet [currentLetter]="letter" [letters]="letters"></app-alphabet>
+    </div>
+  </div>
+</div>

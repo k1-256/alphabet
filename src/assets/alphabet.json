@@ -1,0 +1,332 @@
+[
+  {
+    "name": "а",
+    "isVowel": true,
+    "imageWord": "арбуз",
+    "exampleWords": [
+      "трактор",
+      "аллергия",
+      "алгебра"
+    ]
+  },
+  {
+    "name": "б",
+    "isVowel": true,
+    "imageWord": "бабочка",
+    "exampleWords": [
+      "борода",
+      "тембр",
+      "таблетка"
+    ]
+  },
+  {
+    "name": "в",
+    "isVowel": true,
+    "imageWord": "виноград",
+    "exampleWords": [
+      "овал",
+      "вратарь",
+      "караван"
+    ]
+  },
+  {
+    "name": "г",
+    "isVowel": true,
+    "imageWord": "грибы",
+    "exampleWords": [
+      "эпилог",
+      "дорога",
+      "алгебра"
+    ]
+  },
+  {
+    "name": "д",
+    "isVowel": true,
+    "imageWord": "дерево",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "е",
+    "isVowel": true,
+    "imageWord": "ель",
+    "exampleWords": [
+      "ездок",
+      "забег",
+      "операция"
+    ]
+  },
+  {
+    "name": "ё",
+    "isVowel": true,
+    "imageWord": "ёж",
+    "exampleWords": [
+      "ёмкость",
+      "ёж",
+      "далёкий"
+    ]
+  },
+  {
+    "name": "ж",
+    "isVowel": true,
+    "imageWord": "жираф",
+    "exampleWords": [
+      "жанр",
+      "лживый",
+      "возможность"
+    ]
+  },
+  {
+    "name": "з",
+    "isVowel": true,
+    "imageWord": "зебра",
+    "exampleWords": [
+      "резонанс",
+      "язык",
+      "загадка"
+    ]
+  },
+  {
+    "name": "и",
+    "isVowel": true,
+    "imageWord": "игрушки",
+    "exampleWords": [
+      "знание",
+      "юрист",
+      "холдинг"
+    ]
+  },
+  {
+    "name": "й",
+    "isVowel": true,
+    "imageWord": "йогурт",
+    "exampleWords": [
+      "жидкий",
+      "русский",
+      "государственный"
+    ]
+  },
+  {
+    "name": "к",
+    "isVowel": true,
+    "imageWord": "клубника",
+    "exampleWords": [
+      "закон",
+      "язык",
+      "справка"
+    ]
+  },
+  {
+    "name": "л",
+    "isVowel": true,
+    "imageWord": "лист",
+    "exampleWords": [
+      "дипломат",
+      "стиль",
+      "культура"
+    ]
+  },
+  {
+    "name": "м",
+    "isVowel": true,
+    "imageWord": "машина",
+    "exampleWords": [
+      "возможность",
+      "форма",
+      "дипломат"
+    ]
+  },
+  {
+    "name": "н",
+    "isVowel": true,
+    "imageWord": "ножницы",
+    "exampleWords": [
+      "возможность",
+      "необходимость",
+      "энциклопедия"
+    ]
+  },
+  {
+    "name": "о",
+    "isVowel": true,
+    "imageWord": "обезьяна",
+    "exampleWords": [
+      "окно",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "п",
+    "isVowel": true,
+    "imageWord": "петух",
+    "exampleWords": [
+      "управление",
+      "почта",
+      "специалист"
+    ]
+  },
+  {
+    "name": "р",
+    "isVowel": true,
+    "imageWord": "рыба",
+    "exampleWords": [
+      "дверь",
+      "ограда",
+      "ведро"
+    ]
+  },
+  {
+    "name": "с",
+    "isVowel": true,
+    "imageWord": "солнце",
+    "exampleWords": [
+      "справка",
+      "запрос",
+      "специальность"
+    ]
+  },
+  {
+    "name": "т",
+    "isVowel": true,
+    "imageWord": "туфли",
+    "exampleWords": [
+      "тыква",
+      "простуда",
+      "станция"
+    ]
+  },
+  {
+    "name": "у",
+    "isVowel": true,
+    "imageWord": "улитка",
+    "exampleWords": [
+      "русский",
+      "труба",
+      "буква"
+    ]
+  },
+  {
+    "name": "ф",
+    "isVowel": true,
+    "imageWord": "филин",
+    "exampleWords": [
+      "форма",
+      "кефир",
+      "информация"
+    ]
+  },
+  {
+    "name": "х",
+    "isVowel": true,
+    "imageWord": "хлеб",
+    "exampleWords": [
+      "хурма",
+      "характер",
+      "хоккей"
+    ]
+  },
+  {
+    "name": "ц",
+    "isVowel": true,
+    "imageWord": "цыпленок",
+    "exampleWords": [
+      "цоколь",
+      "цифра",
+      "энциклопедия"
+    ]
+  },
+  {
+    "name": "ч",
+    "isVowel": true,
+    "imageWord": "часы",
+    "exampleWords": [
+      "черепаха",
+      "исключение",
+      "импичмент"
+    ]
+  },
+  {
+    "name": "ш",
+    "isVowel": true,
+    "imageWord": "шишки",
+    "exampleWords": [
+      "шест",
+      "шелест",
+      "мишка"
+    ]
+  },
+  {
+    "name": "щ",
+    "isVowel": true,
+    "imageWord": "щётка",
+    "exampleWords": [
+      "щавель",
+      "общий",
+      "млекопитающее"
+    ]
+  },
+  {
+    "name": "ъ",
+    "isVowel": true,
+    "imageWord": "ъ",
+    "exampleWords": [
+      "биосъёмка",
+      "грузоподъёмость",
+      "дизъюнкция"
+    ]
+  },
+  {
+    "name": "ы",
+    "isVowel": true,
+    "imageWord": "ы",
+    "exampleWords": [
+      "двухатомный",
+      "язык",
+      "курсы"
+    ]
+  },
+  {
+    "name": "ь",
+    "isVowel": true,
+    "imageWord": "ь",
+    "exampleWords": [
+      "дверь",
+      "статья",
+      "стиль"
+    ]
+  },
+  {
+    "name": "э",
+    "isVowel": true,
+    "imageWord": "экскаватор",
+    "exampleWords": [
+      "экспертиза",
+      "энциклопедия",
+      "электронный"
+    ]
+  },
+  {
+    "name": "ю",
+    "isVowel": true,
+    "imageWord": "юбка",
+    "exampleWords": [
+      "юла",
+      "люк",
+      "юрист"
+    ]
+  },
+  {
+    "name": "я",
+    "isVowel": true,
+    "imageWord": "яблоко",
+    "exampleWords": [
+      "язык",
+      "статья",
+      "явление"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+.alphabet
+  margin-top: 20px
+  border: 1px solid lightblue
+  border-radius: 5px
+  padding: 20px 50px
+
+  display: flex
+  flex-flow: row wrap
+  justify-content: center
+  align-items: flex-end
+
+  a
+    margin: 5px 0
+    flex-basis: calc(100% / 5)
+    @media (min-width: 576px)
+      flex-basis: calc(100% / 7)
+    @media (min-width: 768px)
+      flex-basis: calc(100% / 9)
+    @media (min-width: 992px)
+      flex-basis: calc(100% / 12)
+    text-align: center
+    &.current
+      font-size: 1.3rem
+      border-bottom: 2px solid
