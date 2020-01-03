@@ -33,7 +33,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 4. После того как зависимости установятся, надо установить глобальный пакет управления: 'npm install -g @angular/cli'
 5. На этом должен быть финальный этап:
  1. Если вам нужен временный сервер, то пишем - 'ng serve --open'
- 2. Если вам нужен HTML, то пишем - 'ng build --prod', и HTML должен появиться в директории 'dist/'
 
 А и да, я же не рассказал, как изменять картинки и слова.
 В директории 'src/assets' находится файл 'alphabet.json' и директория 'images'.
